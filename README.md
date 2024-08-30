@@ -28,3 +28,12 @@ En plus de l'IA et du Cloud Computing, Nyotah vous forme sur des technologies te
 )
 ### Demo 3
 [Voir la vidéo de l'évolution du design , demo 3](https://youtu.be/WoTQO7dLVsc)
+### lien vers le playground
+[ voici le lien ](http://13.60.91.50:3000/)
+
+[Document de présentation](https://www.canva.com/design/DAGPMibKPwg/fPlIbnoynWepZkIZH09tIA/view?utm_content=DAGPMibKPwg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<img width="406" alt="Screenshot 2024-08-30 at 17 35 00" src="https://github.com/user-attachments/assets/65684eb3-10e6-4ee0-95cb-8873f9480614">
+
+
+
+
